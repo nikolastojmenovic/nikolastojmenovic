@@ -1,2 +1,1 @@
-Website: www.nikolastojmenovic.com
-E-mail: nikola@nikolastojmenovic.com
+I specialize in back-end web development and Linux system administration.
